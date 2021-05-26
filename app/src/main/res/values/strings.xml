@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShindanTest</string>
+    <string name="shindanname">教員適正診断</string>
+    <string name="counterQuestion">第1問</string>
+    <string name="mainQuestion">パワーで勝負</string>
+    <string name="yesyes">Yes</string>
+    <string name="nono">No</string>
+    <string name="textResult1">あなたは</string>
+    <string name="textResult2">〇〇タイプ</string>
+    <string name="textResult3">何も気にせず生きましょう</string>
+</resources>
